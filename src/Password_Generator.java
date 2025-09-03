@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class RandomPasswordGen {
+public class Password_Generator {
 
     public static void main(String[] args) throws Exception {
 
