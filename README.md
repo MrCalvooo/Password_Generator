@@ -1,11 +1,13 @@
-# Password Generator
+# Generador de contraseñas
 
-## Instalation
+## Requisitos
 
-    **You need to have Java installed in yor pc**
+    Necesitas tener Java instalado en tu ordenador
 
-## Execute the program
+## Ejecución
 
-    Open a terminal in the route of the project and paste this: 
-    
-    java src/Password_Generator.java
+    Abre una terminal y situate en la carpeta del proyecto, una vez ahi ejecuta el siguiente comando:
+
+    java -jar Password_Generator.jar
+
+    Introduce la longitud que deseas de la contraseña y copia tu nueva contraseña
