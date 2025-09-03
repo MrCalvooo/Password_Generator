@@ -4,7 +4,11 @@
 
     Necesitas tener Java instalado en tu ordenador
 
-## Ejecución
+## Función del proyecto
+
+    La idea del proyecto es generar una contraseña totalmente aleatoria y segura para el usuario
+
+## Instalación
 
     Abre una terminal y situate en la carpeta del proyecto, una vez ahi ejecuta el siguiente comando:
 
